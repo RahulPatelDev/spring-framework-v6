@@ -31,7 +31,7 @@
 Clone the project:
 
 ```bash
-  git clone https://github.com/RahulPatelDev/spring-framework-v6.git
+  git clone https://github.com/rspatel031/spring-framework-v6.git
 ```
 
 
