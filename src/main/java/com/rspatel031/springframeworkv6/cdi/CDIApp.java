@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.cdi;
+package com.rspatel031.springframeworkv6.cdi;
 
 import jakarta.inject.Inject;
 import jakarta.inject.Named;

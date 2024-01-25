@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.stereotype;
+package com.rspatel031.springframeworkv6.stereotype;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6;
+package com.rspatel031.springframeworkv6;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.injection;
+package com.rspatel031.springframeworkv6.injection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

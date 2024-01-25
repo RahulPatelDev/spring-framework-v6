@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.sampleapp;
+package com.rspatel031.springframeworkv6.sampleapp;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;

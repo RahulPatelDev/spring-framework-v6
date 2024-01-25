@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.sampleapp;
+package com.rspatel031.springframeworkv6.sampleapp;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;

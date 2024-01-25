@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.initialization;
+package com.rspatel031.springframeworkv6.initialization;
 
 import org.springframework.context.annotation.*;
 import org.springframework.stereotype.Component;

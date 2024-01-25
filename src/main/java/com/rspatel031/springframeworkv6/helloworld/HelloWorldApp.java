@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.helloworld;
+package com.rspatel031.springframeworkv6.helloworld;
 
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

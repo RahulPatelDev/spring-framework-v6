@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.scope;
+package com.rspatel031.springframeworkv6.scope;
 
 
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;

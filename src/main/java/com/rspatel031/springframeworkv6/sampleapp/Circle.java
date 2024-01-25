@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.sampleapp;
+package com.rspatel031.springframeworkv6.sampleapp;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

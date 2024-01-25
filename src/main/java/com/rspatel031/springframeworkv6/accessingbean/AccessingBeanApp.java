@@ -1,4 +1,4 @@
-package com.rahulpateldev.springframeworkv6.accessingbean;
+package com.rspatel031.springframeworkv6.accessingbean;
 
 
 import org.springframework.beans.factory.annotation.Qualifier;
