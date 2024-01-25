@@ -21,7 +21,6 @@
 - Initialization
 - Stereotype
 - CDI (Contexts and Dependency Injection)
-- Value Annotation
 - Final Sample App
 
 
